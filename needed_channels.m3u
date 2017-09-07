@@ -37,8 +37,10 @@ http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/26556.ts
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/28103.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CA | CNN  HD" tvg-logo="https://s3.amazonaws.com/rsicons/cnn.png" group-title="ENGLISH",CA | CNN  HD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/20916.ts
-#EXTINF:-1 tvg-id="CNBC.ca" tvg-name="US | CNBC" tvg-logo="https://s3.amazonaws.com/rsicons/cnbc.png" group-title="ENGLISH",US | CNBC
+#EXTINF:-1 tvg-id="CNBC.ca" tvg-name="US | CNBC WORLD" tvg-logo="https://s3.amazonaws.com/rsicons/cnbc.png" group-title="ENGLISH",US | CNBC WORLD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/20711.ts
+#EXTINF:-1 tvg-id="" tvg-name="US | CNBC HD" tvg-logo="https://s3.amazonaws.com/rsicons/cnbc_uk.jpg" group-title="ENGLISH",US | CNBC HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/28303.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA | BNN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bnn_ca.jpg" group-title="ENGLISH",CA | BNN
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21996.ts
 #EXTINF:-1 tvg-id="FoxNews.ca" tvg-name="US | FOX NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_hd_lam.jpg" group-title="ENGLISH",US | FOX NEWS
