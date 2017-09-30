@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="STAR SPORTS 1 HD (FULL HD)" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 HD (FULL HD)
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="STAR SPORTS 1 HD (FULL HD)" tvg-logo="https://s3.amazonaws.com/rsicons/STAR%20SPORTS1.jpg" group-title="CRICKET",STAR SPORTS 1 HD (FULL HD)
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/16956.ts
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD (FULL HD)" tvg-logo="" group-title="CRICKET",STAR SPORTS 2 HD (FULL HD)
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/16955.ts
@@ -11,8 +11,12 @@ http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/16953.ts
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21742.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT SKY PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",SKY SPORT SKY PREMIER LEAGUE
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21739.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="SPORTS",BT SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS HD ARENA" tvg-logo="" group-title="SPORTS",SKY SPORTS HD ARENA
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/27769.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1 HD" tvg-logo="https://s3.amazonaws.com/stricons/BTSport1.uk.png" group-title="SPORTS",BT SPORTS 1 HD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21736.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | BT SPORTS 1 BACK UP" tvg-logo="" group-title="SPORTS",UK | BT SPORTS 1 BACK UP
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/29939.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="SPORTS",BT SPORTS 2 HD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21735.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 3 HD" tvg-logo="" group-title="SPORTS",BT SPORTS 3 HD
@@ -62,5 +66,5 @@ http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/28101.ts
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/28100.ts
 #EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CA | CITY TV  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/city_tv_co.jpg" group-title="ENGLISH",CA | CITY TV  HD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/20712.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="SPORTSNET ONTARIO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_ontario_hd.jpg" group-title="SPORTS",SPORTSNET ONTARIO
-http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/13880.ts
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="SPORTSNET ONE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_one.jpg" group-title="SPORTS",SPORTSNET ONE HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/20721.ts
