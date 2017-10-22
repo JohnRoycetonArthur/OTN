@@ -73,3 +73,11 @@ http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/29130.ts
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21743.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" group-title="SPORTS",TSN 1 HD
 http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/13885.ts
+#EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CA | CITY TV  HD" tvg-logo="https://s3.amazonaws.com/rsicons/city_tv_ca.jpg" group-title="ENGLISH",CA | CITY TV  HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/20712.ts
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="CA | GLOBAL EAST HD" tvg-logo="https://s3.amazonaws.com/rsicons/ciii_toronto.jpg" group-title="ENGLISH",CA | GLOBAL EAST HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/22581.ts
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="CA | CBC EAST HD" tvg-logo="https://s3.amazonaws.com/rsicons/cbc_hd.jpg" group-title="ENGLISH",CA | CBC EAST HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/16517.ts
+#EXTINF:-1 tvg-id="CTV.ca" tvg-name="CA | CTV EAST HD" tvg-logo="https://s3.amazonaws.com/rsicons/ctv_winnipeg_hd.jpg" group-title="ENGLISH",CA | CTV EAST HD
+http://p4.giffy.be:8000/live/roycetonis@gmail.com/omExC4783y/21510.ts
