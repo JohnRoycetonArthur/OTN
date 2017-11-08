@@ -64,7 +64,7 @@ http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/13880.ts
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/28101.ts
 #EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD CA." tvg-logo="" group-title="TEST",TSN 4 HD CA.
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/28100.ts
-#EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CA | CITY TV  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/city_tv_co.jpg" group-title="ENGLISH",CA | CITY TV  HD
+#EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CA | CITY TV  HD" tvg-logo="https://s3.amazonaws.com/rsicons/city_tv_ca.jpg" group-title="ENGLISH",CA | CITY TV  HD
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/20712.ts
 #EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="SPORTSNET ONE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportsnet_one.jpg" group-title="SPORTS",SPORTSNET ONE HD
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/20721.ts#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT (BACK UP)" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT (BACK UP)
