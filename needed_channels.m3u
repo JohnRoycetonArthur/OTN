@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="STAR SPORTS 1 HD (FULL HD)" tvg-logo="https://s3.amazonaws.com/rsicons/STAR%20SPORTS1.jpg" group-title="CRICKET",STAR SPORTS 1 HD (FULL HD)
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="STAR SPORTS 1 HD (FULL HD)" tvg-logo="https://s3.amazonaws.com/rsicons/STAR%20SPORTS1.jpg" group-title="SPORTS",STAR SPORTS 1 HD (FULL HD)
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/16956.ts
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD (FULL HD)" tvg-logo="" group-title="CRICKET",STAR SPORTS 2 HD (FULL HD)
 http://p5.giffy.be:8080/live/roycetonis@gmail.com/omExC4783y/16955.ts
